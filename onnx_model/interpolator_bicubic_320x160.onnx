@@ -1,0 +1,420 @@
+pytorch2.2.1:Æ—
+á
+pos
+/Constant_output_0/Div_output_0/Div"Div2—/content/accelerated_features/modules/interpolator.py(19): normgrid
+/content/accelerated_features/modules/interpolator.py(31): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1501): _slow_forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(129): wrapper
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(138): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(1296): _get_trace_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(915): _trace_and_get_graph_from_model
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1011): _create_jit_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1135): _model_to_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1613): _export
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(516): export
+<ipython-input-4-055b66c8da45>(32): convert_to_onnx
+<ipython-input-5-33cd1e16c6fd>(13): <cell line: 12>
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3553): run_code
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3473): run_ast_nodes
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3257): run_cell_async
+/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py(78): _pseudo_sync_runner
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3030): _run_cell
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(2975): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py(539): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py(302): do_execute
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(539): execute_request
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(261): dispatch_shell
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(361): process_one
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(748): __init__
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(250): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(377): dispatch_queue
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(825): inner
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(738): _run_callback
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(685): <lambda>
+/usr/lib/python3.10/asyncio/events.py(80): _run
+/usr/lib/python3.10/asyncio/base_events.py(1909): _run_once
+/usr/lib/python3.10/asyncio/base_events.py(603): run_forever
+/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py(195): start
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py(619): start
+/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py(992): launch_instance
+/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py(37): <module>
+/usr/lib/python3.10/runpy.py(86): _run_code
+/usr/lib/python3.10/runpy.py(196): _run_module_as_main
+
+ì
+/Div_output_0
+/Constant_1_output_0/Mul_output_0/Mul"Mul2—/content/accelerated_features/modules/interpolator.py(19): normgrid
+/content/accelerated_features/modules/interpolator.py(31): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1501): _slow_forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(129): wrapper
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(138): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(1296): _get_trace_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(915): _trace_and_get_graph_from_model
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1011): _create_jit_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1135): _model_to_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1613): _export
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(516): export
+<ipython-input-4-055b66c8da45>(32): convert_to_onnx
+<ipython-input-5-33cd1e16c6fd>(13): <cell line: 12>
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3553): run_code
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3473): run_ast_nodes
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3257): run_cell_async
+/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py(78): _pseudo_sync_runner
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3030): _run_cell
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(2975): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py(539): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py(302): do_execute
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(539): execute_request
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(261): dispatch_shell
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(361): process_one
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(748): __init__
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(250): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(377): dispatch_queue
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(825): inner
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(738): _run_callback
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(685): <lambda>
+/usr/lib/python3.10/asyncio/events.py(80): _run
+/usr/lib/python3.10/asyncio/base_events.py(1909): _run_once
+/usr/lib/python3.10/asyncio/base_events.py(603): run_forever
+/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py(195): start
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py(619): start
+/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py(992): launch_instance
+/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py(37): <module>
+/usr/lib/python3.10/runpy.py(86): _run_code
+/usr/lib/python3.10/runpy.py(196): _run_module_as_main
+
+ì
+/Mul_output_0
+/Constant_2_output_0/Sub_output_0/Sub"Sub2—/content/accelerated_features/modules/interpolator.py(19): normgrid
+/content/accelerated_features/modules/interpolator.py(31): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1501): _slow_forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(129): wrapper
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(138): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(1296): _get_trace_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(915): _trace_and_get_graph_from_model
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1011): _create_jit_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1135): _model_to_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1613): _export
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(516): export
+<ipython-input-4-055b66c8da45>(32): convert_to_onnx
+<ipython-input-5-33cd1e16c6fd>(13): <cell line: 12>
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3553): run_code
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3473): run_ast_nodes
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3257): run_cell_async
+/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py(78): _pseudo_sync_runner
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3030): _run_cell
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(2975): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py(539): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py(302): do_execute
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(539): execute_request
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(261): dispatch_shell
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(361): process_one
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(748): __init__
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(250): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(377): dispatch_queue
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(825): inner
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(738): _run_callback
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(685): <lambda>
+/usr/lib/python3.10/asyncio/events.py(80): _run
+/usr/lib/python3.10/asyncio/base_events.py(1909): _run_once
+/usr/lib/python3.10/asyncio/base_events.py(603): run_forever
+/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py(195): start
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py(619): start
+/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py(992): launch_instance
+/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py(37): <module>
+/usr/lib/python3.10/runpy.py(86): _run_code
+/usr/lib/python3.10/runpy.py(196): _run_module_as_main
+
+·
+/Sub_output_0
+/Constant_3_output_0/Unsqueeze_output_0
+/Unsqueeze"	Unsqueeze2ç/content/accelerated_features/modules/interpolator.py(31): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1501): _slow_forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(129): wrapper
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(138): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(1296): _get_trace_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(915): _trace_and_get_graph_from_model
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1011): _create_jit_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1135): _model_to_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1613): _export
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(516): export
+<ipython-input-4-055b66c8da45>(32): convert_to_onnx
+<ipython-input-5-33cd1e16c6fd>(13): <cell line: 12>
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3553): run_code
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3473): run_ast_nodes
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3257): run_cell_async
+/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py(78): _pseudo_sync_runner
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3030): _run_cell
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(2975): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py(539): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py(302): do_execute
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(539): execute_request
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(261): dispatch_shell
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(361): process_one
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(748): __init__
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(250): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(377): dispatch_queue
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(825): inner
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(738): _run_callback
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(685): <lambda>
+/usr/lib/python3.10/asyncio/events.py(80): _run
+/usr/lib/python3.10/asyncio/base_events.py(1909): _run_once
+/usr/lib/python3.10/asyncio/base_events.py(603): run_forever
+/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py(195): start
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py(619): start
+/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py(992): launch_instance
+/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py(37): <module>
+/usr/lib/python3.10/runpy.py(86): _run_code
+/usr/lib/python3.10/runpy.py(196): _run_module_as_main
+
+Ì
+x
+/Unsqueeze_output_0/GridSample_output_0/GridSample"
+GridSample*
+align_corners †*
+mode"bicubic†*
+padding_mode"zeros†2ﬂ/usr/local/lib/python3.10/dist-packages/torch/nn/functional.py(4324): grid_sample
+/content/accelerated_features/modules/interpolator.py(32): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1501): _slow_forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(129): wrapper
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(138): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(1296): _get_trace_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(915): _trace_and_get_graph_from_model
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1011): _create_jit_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1135): _model_to_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1613): _export
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(516): export
+<ipython-input-4-055b66c8da45>(32): convert_to_onnx
+<ipython-input-5-33cd1e16c6fd>(13): <cell line: 12>
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3553): run_code
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3473): run_ast_nodes
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3257): run_cell_async
+/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py(78): _pseudo_sync_runner
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3030): _run_cell
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(2975): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py(539): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py(302): do_execute
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(539): execute_request
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(261): dispatch_shell
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(361): process_one
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(748): __init__
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(250): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(377): dispatch_queue
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(825): inner
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(738): _run_callback
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(685): <lambda>
+/usr/lib/python3.10/asyncio/events.py(80): _run
+/usr/lib/python3.10/asyncio/base_events.py(1909): _run_once
+/usr/lib/python3.10/asyncio/base_events.py(603): run_forever
+/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py(195): start
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py(619): start
+/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py(992): launch_instance
+/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py(37): <module>
+/usr/lib/python3.10/runpy.py(86): _run_code
+/usr/lib/python3.10/runpy.py(196): _run_module_as_main
+
+Â
+/GridSample_output_0/Transpose_output_0
+/Transpose"	Transpose*
+perm@ @@@†2ç/content/accelerated_features/modules/interpolator.py(33): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1501): _slow_forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(129): wrapper
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(138): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(1296): _get_trace_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(915): _trace_and_get_graph_from_model
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1011): _create_jit_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1135): _model_to_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1613): _export
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(516): export
+<ipython-input-4-055b66c8da45>(32): convert_to_onnx
+<ipython-input-5-33cd1e16c6fd>(13): <cell line: 12>
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3553): run_code
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3473): run_ast_nodes
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3257): run_cell_async
+/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py(78): _pseudo_sync_runner
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3030): _run_cell
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(2975): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py(539): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py(302): do_execute
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(539): execute_request
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(261): dispatch_shell
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(361): process_one
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(748): __init__
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(250): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(377): dispatch_queue
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(825): inner
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(738): _run_callback
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(685): <lambda>
+/usr/lib/python3.10/asyncio/events.py(80): _run
+/usr/lib/python3.10/asyncio/base_events.py(1909): _run_once
+/usr/lib/python3.10/asyncio/base_events.py(603): run_forever
+/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py(195): start
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py(619): start
+/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py(992): launch_instance
+/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py(37): <module>
+/usr/lib/python3.10/runpy.py(86): _run_code
+/usr/lib/python3.10/runpy.py(196): _run_module_as_main
+
+“
+/Transpose_output_0
+/Constant_4_output_016/Squeeze"Squeeze2ç/content/accelerated_features/modules/interpolator.py(33): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1501): _slow_forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(129): wrapper
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(138): forward
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1520): _call_impl
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py(1511): _wrapped_call_impl
+/usr/local/lib/python3.10/dist-packages/torch/jit/_trace.py(1296): _get_trace_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(915): _trace_and_get_graph_from_model
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1011): _create_jit_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1135): _model_to_graph
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(1613): _export
+/usr/local/lib/python3.10/dist-packages/torch/onnx/utils.py(516): export
+<ipython-input-4-055b66c8da45>(32): convert_to_onnx
+<ipython-input-5-33cd1e16c6fd>(13): <cell line: 12>
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3553): run_code
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3473): run_ast_nodes
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3257): run_cell_async
+/usr/local/lib/python3.10/dist-packages/IPython/core/async_helpers.py(78): _pseudo_sync_runner
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(3030): _run_cell
+/usr/local/lib/python3.10/dist-packages/IPython/core/interactiveshell.py(2975): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/zmqshell.py(539): run_cell
+/usr/local/lib/python3.10/dist-packages/ipykernel/ipkernel.py(302): do_execute
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(539): execute_request
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(261): dispatch_shell
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(234): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(361): process_one
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(748): __init__
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(250): wrapper
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelbase.py(377): dispatch_queue
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(786): run
+/usr/local/lib/python3.10/dist-packages/tornado/gen.py(825): inner
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(738): _run_callback
+/usr/local/lib/python3.10/dist-packages/tornado/ioloop.py(685): <lambda>
+/usr/lib/python3.10/asyncio/events.py(80): _run
+/usr/lib/python3.10/asyncio/base_events.py(1909): _run_once
+/usr/lib/python3.10/asyncio/base_events.py(603): run_forever
+/usr/local/lib/python3.10/dist-packages/tornado/platform/asyncio.py(195): start
+/usr/local/lib/python3.10/dist-packages/ipykernel/kernelapp.py(619): start
+/usr/local/lib/python3.10/dist-packages/traitlets/config/application.py(992): launch_instance
+/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py(37): <module>
+/usr/lib/python3.10/runpy.py(86): _run_code
+/usr/lib/python3.10/runpy.py(196): _run_module_as_main
+
+main_graph*"B/Constant_output_0J ÄüC  C*B/Constant_1_output_0J   @*B/Constant_2_output_0J  Ä?*$B/Constant_3_output_0J˛ˇˇˇˇˇˇˇ*$B/Constant_4_output_0J       Z7
+x2
+0,
+
+batch_size
+	channel
+height
+widthZ,
+pos%
+#
+
+batch_size
+	keypoints
+bE
+16?
+=9
+Squeeze16_dim_0
+Squeeze16_dim_1
+Squeeze16_dim_2j6
+/Div_output_0%
+#
+
+batch_size
+	keypoints
+j6
+/Mul_output_0%
+#
+
+batch_size
+	keypoints
+j6
+/Sub_output_0%
+#
+
+batch_size
+	keypoints
+j@
+/Unsqueeze_output_0)
+'#
+
+batch_size
+	keypoints
+
+jH
+/GridSample_output_00
+.*
+
+batch_size
+	channel
+	keypoints
+jG
+/Transpose_output_00
+.*
+
+batch_size
+	keypoints
+
+	channelB
+ 
