@@ -1,7 +1,7 @@
 > **Note**
 > <br>このリポジトリは試験的なONNX変換とサンプルの実装です
 > <br>・このリポジトリで公開しているXFeatモデルはGPUでONNX推論してもあまり高速化が期待できません
-> <br>・InterpolatorモデルはONNX変換していますが、Numpyなどを使用して処理したほうが効率が良い可能性があります
+> <br>・InterpolatorモデルはONNX変換していますが、Numpyなどで処理したほうが効率が良い可能性があります
 > <br>・サンプルスクリプトはスパースな特徴点の抽出のみ実装しており、密な特徴点の抽出の実装はしていません
  
 # XFeat-Image-Matching-ONNX-Sample
